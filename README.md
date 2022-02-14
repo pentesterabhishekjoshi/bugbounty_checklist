@@ -1,4 +1,5 @@
 you can follow this checklist when performing web application penetration or bug hunting. Sometime it should be difficult to remember the bugs which you want to test and already tested. Kindly follow this checklist and hunting the bugs.
+if you wants to learn bug bounty hunting or penetration testing visit on https://cyberbugs.in
 
 
 Web Application Penetration Testing Checklist
